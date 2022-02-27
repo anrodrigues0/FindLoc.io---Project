@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "FindLoc.io",
+    "slug": "FindLoc.io",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "FindLoc.io"
+}
