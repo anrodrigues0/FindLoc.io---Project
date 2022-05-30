@@ -7,6 +7,13 @@ import androidx.annotation.NonNull;
 
 import com.facebook.react.PackageList;
 import com.facebook.react.ReactApplication;
+import io.sentry.react.RNSentryPackage;
+import io.sentry.react.RNSentryPackage;
+import io.sentry.react.RNSentryPackage;
+import io.sentry.react.RNSentryPackage;
+import com.swmansion.gesturehandler.RNGestureHandlerPackage;
+import com.th3rdwave.safeareacontext.SafeAreaContextPackage;
+import com.oblador.vectoricons.VectorIconsPackage;
 import com.facebook.react.ReactInstanceManager;
 import com.facebook.react.ReactNativeHost;
 import com.facebook.react.ReactPackage;
